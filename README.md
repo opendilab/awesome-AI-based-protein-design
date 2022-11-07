@@ -17,17 +17,15 @@ Welcome to follow and star!
   - [Nature Communications](#nature-communications)
   - [Science](#science)
   - [ICML, ICLR or NeurIPS 2022](#icml-iclr-or-neurips-2022)
-  - [Arxiv or bioRxi](#arxiv-or-biorxi)
+  - [Arxiv or bioRxiv](#arxiv-or-biorxiv)
   - [Others](#others)
 - [Contributing](#contributing)
 
 ## Overview of Protein Design
 
-AI tools have solved the protein structure prediction problem. This problem derives the spatial structure from the amino acid sequence and achieves atomic-level prediction accuracy, such as Alphafold 2. It combines previous protein structure prediction models to automatically learn protein design methods, thus truly serving human pharmaceutical needs.
+AI tools have solved the protein structure prediction problem. This problem derives the spatial structure from the amino acid sequence and achieves atomic-level prediction accuracy, such as [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2). It combines previous protein structure prediction models to automatically learn protein design methods, thus truly serving human pharmaceutical needs.
 
-![image info1](./alphafold.png)
-
-![image info2](./structure_solver.png)
+![image info1](./alphafold.png) ![image info2](./structure_solver.png)
 
 The specific practices of protein design vary widely, and the problem definitions applicable to different design processes are also very different. Here are some examples: 
 
@@ -46,8 +44,6 @@ format:
   - author1, author2, and author3...
   - publisher
   - keyword
-  - code
-  - experiment environment
 ```
 
 
@@ -181,4 +177,4 @@ Our purpose is to make this repo even better. If you are interested in contribut
 
 ## License
 
-Awesome AI based Protein Design is released under the Apache 2.0 license.
+awesome AI based protein design is released under the Apache 2.0 license.
