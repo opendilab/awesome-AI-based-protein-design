@@ -108,7 +108,7 @@ format:
   - Keywords: functional site, deep learning, hallucination, inpainting
   
 
-### ICML, ICLR or NeurIPS
+### ICML, ICLR or NeurIPS 2022
 
 - [Conditioning by adaptive sampling for robust design](http://proceedings.mlr.press/v97/brookes19a.html)
   - David Brookes, Hahnbeom Park, Jennifer Listgarten 
