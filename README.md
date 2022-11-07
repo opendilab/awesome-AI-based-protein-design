@@ -141,7 +141,7 @@ format:
   - Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia
   - Keywords: topological feature, protein design
   
-- [Function-guided protein design by deep manifold sampling](Function-guided protein design by deep manifold sampling)
+- [Function-guided protein design by deep manifold sampling](https://www.biorxiv.org/content/10.1101/2021.12.22.473759v1)
   - Vladimir Gligorijević, Daniel Berenberg, Stephen Ra, Simon Kelow, Kyunghyun Cho
   - Keywords: sequence denoising autoencoder, deep manifold sampling
   
