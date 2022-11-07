@@ -171,9 +171,9 @@ format:
   
 ## Reference
 
-[1] Wang, Jue, et al. "Scaffolding protein functional sites using deep learning." Science 377.6604 (2022): 387-394.
+[1] Wang, Jue, et al. ["Scaffolding protein functional sites using deep learning." Science 377.6604 (2022): 387-394.](https://www.science.org/doi/abs/10.1126/science.abn2100)
 
-[2] Huang, Bin, et al. "A backbone-centred energy function of neural networks for protein design." Nature 602.7897 (2022): 523-528.  
+[2] Huang, Bin, et al. ["A backbone-centred energy function of neural networks for protein design." Nature 602.7897 (2022): 523-528. ](https://www.nature.com/articles/s41586-021-04383-5)
 
 ## Contributing
 
