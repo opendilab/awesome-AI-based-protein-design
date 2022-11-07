@@ -181,4 +181,4 @@ Our purpose is to make this repo even better. If you are interested in contribut
 
 ## License
 
-Awesome Decision Transformer is released under the Apache 2.0 license.
+Awesome AI based Protein Design is released under the Apache 2.0 license.
