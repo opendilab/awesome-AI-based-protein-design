@@ -25,6 +25,10 @@ Welcome to follow and star!
 
 AI tools have solved the protein structure prediction problem. This problem derives the spatial structure from the amino acid sequence and achieves atomic-level prediction accuracy, such as Alphafold 2. It combines previous protein structure prediction models to automatically learn protein design methods, thus truly serving human pharmaceutical needs.
 
+![image info1](./alphafold.png)
+
+![image info2](./structure_solver.png)
+
 The specific practices of protein design vary widely, and the problem definitions applicable to different design processes are also very different. Here are some examples: 
 
 1. A problem of predicting amino acid sequences from spatial structure (the inverse of Alphafold), which assumes that the spatial structure of the desired protein can be derived through molecular dynamics simulations, etc.
