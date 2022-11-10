@@ -1,15 +1,15 @@
-# Awesome AI based Protein Design
+# Awesome AI-based Protein Design
 
 
 This is a collection of research papers for **AI-based Protein Design**.
-And the repository will be continuously updated to track the frontier of AI based protein design.
+And the repository will be continuously updated to track the frontier of AI-based protein design.
 
 Welcome to follow and star!
 
 
 ## Table of Contents
 
-- [A Overview / Example of AI based Protein Design](#a-Overview/Example-of-AI-based-Protein-Design)
+- [A Overview / Example of AI-based Protein Design](#a-Overview/Example-of-AI-based-Protein-Design)
 - [Papers](#papers)
 
   - [Nature](#nature) (**<font color="red">Important!!!</font>**)
@@ -33,7 +33,7 @@ The specific practices of protein design vary widely, and the problem definition
 2. A problem of protein structure completion problem for a given partial structure, such as the recent Science [1] by the famous David Baker group. This assumes that only partial structural matches can be found. 
 3. Combination of the fitted energy function with MD simulation for protein design, such as the recent Nature [2] of Liu Haiyan's team in China.
 
-In addition, many methods can be used for protein design, and the corresponding AI problem definitions are also very different. This article lists some high-level articles in AI -based protein design, which will be continuously updated in the future.
+In addition, many methods can be used for protein design, and the corresponding AI problem definitions are also very different. This article lists some high-level articles in AI-based protein design, which will be continuously updated in the future.
 
 
 ## Papers
@@ -177,4 +177,4 @@ Our purpose is to make this repo even better. If you are interested in contribut
 
 ## License
 
-awesome AI based protein design is released under the Apache 2.0 license.
+awesome AI-based protein design is released under the Apache 2.0 license.
