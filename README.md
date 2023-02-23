@@ -152,6 +152,10 @@ format:
 - [TERMinator: A Neural Framework for Structure-Based Protein Design using Tertiary Repeating Motifs](https://arxiv.org/abs/2204.13048)
   - Alex J. Li, Vikram Sundar, Gevorg Grigoryan, Amy E. Keating
   - Keywords: protein design, tertiary motifs 
+
+- [Language models generalize beyond natural proteins](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1)
+  - Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, David Baker, Sergey Ovchinnikov, Tom Sercu, Alexander Rives
+  - Keywords: language model, protein design
   
 
 ### Others
