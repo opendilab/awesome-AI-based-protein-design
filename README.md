@@ -114,7 +114,15 @@ format:
   - Keywords: functional site, deep learning, hallucination, inpainting
   
 
-### ICML, ICLR or NeurIPS 2022
+### ICML, ICLR or NeurIPS
+
+- [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)
+  - Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, Richard Socher, Nazneen Fatema Rajani
+  - Keywords: language model, transformer, structural and functional property
+
+- [Conditional Antibody Design as 3D Equivariant Graph Translation](https://arxiv.org/abs/2208.06073)
+  - Xiangzhe Kong, Wenbing Huang, Yang Liu
+  - Keywords: antibody design, graph tranlation
 
 - [Conditioning by adaptive sampling for robust design](http://proceedings.mlr.press/v97/brookes19a.html)
   - David Brookes, Hahnbeom Park, Jennifer Listgarten 
@@ -123,6 +131,10 @@ format:
 - [Deep generative models create new and diverse protein structures](https://www.mlsb.io/papers_2021/MLSB2021_Deep_generative_models_create.pdf)
   - Zeming Lin, Tom Sercu,  Yann LeCun
   - Keywords: diversity, generative model, protein design
+
+- [Deep sharpening of topological features for de novo protein design](https://openreview.net/forum?id=DwN81YIXGQP)
+  - Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia
+  - Keywords: variational autoencoder, topological features, sharpen
   
 - [Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design](https://proceedings.mlr.press/v139/cao21a.html)
   - Yue Cao, Payel Das, Vijil Chenthamarakshan, Pin-Yu Chen, Igor Melnyk, Yang Shen
@@ -136,12 +148,16 @@ format:
   - John Ingraham, Vikas Garg, Regina Barzilay, Tommi Jaakkola
   - Keywords: generative model, protein design
 
+- [Model-based reinforcement learning for biological sequence design](https://openreview.net/forum?id=HklxbgBKvr&fileGuid=3xgr169o12oUrbxS&ref=https://githubhelp.com)
+  - XChristof Angermueller, David Dohan, David Belanger, Ramya Deshpande, Kevin Murphy, Lucy Colwell
+  - Keywords: reinforcement learning, sequence design
+
+- [Molecule Generation For Target Protein Binding with Structural Motifs](https://openreview.net/forum?id=Rq13idF0F73)
+  - Zaixi Zhang, Yaosen Min, Shuxin Zheng, Qi Liu
+  - Keywords: target protein, structural motifs, fragment-by-fragment generation
+
 
 ### Arxiv or bioRxiv
-
-- [Conditional Antibody Design as 3D Equivariant Graph Translation](https://arxiv.org/abs/2208.06073)
-  - Xiangzhe Kong, Wenbing Huang, Yang Liu
-  - Keywords: antibody design, graph tranlation
   
 - [Deep sharpening of topological features for de novo protein design](https://openreview.net/forum?id=DwN81YIXGQP)
   - Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia
@@ -154,10 +170,6 @@ format:
 - [Language models of protein sequences at the scale of evolution enable accurate structure prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902.abstract)
   - Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Sal Candido, Alexander Rives
   - Keywords: structure prediction, language model
-  
-- [Model-based reinforcement learning for biological sequence design](https://openreview.net/forum?id=HklxbgBKvr&fileGuid=3xgr169o12oUrbxS&ref=https://githubhelp.com)
-  - XChristof Angermueller, David Dohan, David Belanger, Ramya Deshpande, Kevin Murphy, Lucy Colwell
-  - Keywords: reinforcement learning, sequence design
   
 - [TERMinator: A Neural Framework for Structure-Based Protein Design using Tertiary Repeating Motifs](https://arxiv.org/abs/2204.13048)
   - Alex J. Li, Vikram Sundar, Gevorg Grigoryan, Amy E. Keating
