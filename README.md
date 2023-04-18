@@ -91,7 +91,7 @@ format:
 - [Protein design and variant prediction using autoregressive generative models](https://www.nature.com/articles/s41467-021-22732-w)
   - Jung-Eun Shin, Adam J. Riesselman, Aaron W. Kollasch, Conor McMahon, Elana Simon, Chris Sander, Aashish Manglik, Andrew C. Kruse & Debora S. Marks 
   - Keywords: autoregressive generative models, protein design
-
+  
 
 ### Nature Machine Intelligence
 - [Regression Transformer enables concurrent sequence regression and generation for molecular language modelling](https://www.nature.com/articles/s42256-023-00639-z)
@@ -158,7 +158,7 @@ format:
 
 
 ### Arxiv or bioRxiv
-  
+
 - [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)
   - Brian Hie, Salvatore Candido, Zeming Lin, Ori Kabeli, Roshan Rao, Nikita Smetanin, Tom Sercu, Alexander Rives
   - Keywords: ESMFold, language model, energy-based
