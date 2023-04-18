@@ -91,7 +91,17 @@ format:
 - [Protein design and variant prediction using autoregressive generative models](https://www.nature.com/articles/s41467-021-22732-w)
   - Jung-Eun Shin, Adam J. Riesselman, Aaron W. Kollasch, Conor McMahon, Elana Simon, Chris Sander, Aashish Manglik, Andrew C. Kruse & Debora S. Marks 
   - Keywords: autoregressive generative models, protein design
-  
+
+
+### Nature Machine Intelligence
+- [Regression Transformer enables concurrent sequence regression and generation for molecular language modelling](https://www.nature.com/articles/s42256-023-00639-z)
+  - Jannis Born & Matteo Manica
+  - Keywords: molecular language modelling, regression, transformer
+
+- [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
+  - Noelia Ferruz & Birte Höcker 
+  - Keywords: language model, controllable, survey
+
 
 ### Science
 
