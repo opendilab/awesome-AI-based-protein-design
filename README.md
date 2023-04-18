@@ -164,7 +164,7 @@ format:
   - Keywords: ESMFold, language model, energy-based
   
 - [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v2.abstract)
-  - Joseph L. Watson,  View ORCID ProfileDavid Juergens,  View ORCID ProfileNathaniel R. Bennett,  View ORCID ProfileBrian L. Trippe,  View ORCID ProfileJason Yim,  View ORCID ProfileHelen E. Eisenach, Woody Ahern,  View ORCID ProfileAndrew J. Borst,  View ORCID ProfileRobert J. Ragotte,  View ORCID ProfileLukas F. Milles,  View ORCID ProfileBasile I. M. Wicky,  View ORCID ProfileNikita Hanikel, Samuel J. Pellock,  View ORCID ProfileAlexis Courbet, William Sheffler,  View ORCID ProfileJue Wang, Preetham Venkatesh,  View ORCID ProfileIsaac Sappington, Susana Vázquez Torres,  View ORCID ProfileAnna Lauko,  View ORCID ProfileValentin De Bortoli, Emile Mathieu, Regina Barzilay,  View ORCID ProfileTommi S. Jaakkola,  View ORCID ProfileFrank DiMaio,  View ORCID ProfileMinkyung Baek,  View ORCID ProfileDavid Baker
+  - Joseph L. Watson,  David Juergens,  Nathaniel R. Bennett,  Brian L. Trippe,  Jason Yim,  Helen E. Eisenach, Woody Ahern,  Andrew J. Borst,  Robert J. Ragotte,  Lukas F. Milles,  Basile I. M. Wicky,  Nikita Hanikel, Samuel J. Pellock,  Alexis Courbet, William Sheffler,  Jue Wang, Preetham Venkatesh,  Isaac Sappington, Susana Vázquez Torres,  Anna Lauko,  Valentin De Bortoli, Emile Mathieu, Regina Barzilay,  Tommi S. Jaakkola,  Frank DiMaio,  Minkyung Baek,  David Baker
   - Keywords: diffusion, general deep learning framework, de novo binder design
   
 - [Function-guided protein design by deep manifold sampling](https://www.biorxiv.org/content/10.1101/2021.12.22.473759v1)
