@@ -15,6 +15,7 @@ Welcome to follow and star!
   - [Nature](#nature) (**<font color="red">Important!!!</font>**)
   - [Nature Biomedical Engineering](#nature-biomedical-engineering)
   - [Nature Communications](#nature-communications)
+  - [Nature Machine Intelligence](#nature-machine-intelligence)
   - [Science](#science)
   - [ICML, ICLR or NeurIPS 2022](#icml-iclr-or-neurips-2022)
   - [Arxiv or bioRxiv](#arxiv-or-biorxiv)
