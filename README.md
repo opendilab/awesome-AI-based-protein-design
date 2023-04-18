@@ -15,6 +15,7 @@ Welcome to follow and star!
   - [Nature](#nature) (**<font color="red">Important!!!</font>**)
   - [Nature Biomedical Engineering](#nature-biomedical-engineering)
   - [Nature Communications](#nature-communications)
+  - [Nature Machine Intelligence](#nature-machine-intelligence)
   - [Science](#science)
   - [ICML, ICLR or NeurIPS 2022](#icml-iclr-or-neurips-2022)
   - [Arxiv or bioRxiv](#arxiv-or-biorxiv)
@@ -93,6 +94,16 @@ format:
   - Keywords: autoregressive generative models, protein design
   
 
+### Nature Machine Intelligence
+- [Regression Transformer enables concurrent sequence regression and generation for molecular language modelling](https://www.nature.com/articles/s42256-023-00639-z)
+  - Jannis Born & Matteo Manica
+  - Keywords: molecular language modelling, regression, transformer
+
+- [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
+  - Noelia Ferruz & Birte Höcker 
+  - Keywords: language model, controllable, survey
+
+
 ### Science
 
 - [Robust deep learning based protein sequence design using ProteinMPNN](https://www.science.org/doi/abs/10.1126/science.add2187)
@@ -104,7 +115,15 @@ format:
   - Keywords: functional site, deep learning, hallucination, inpainting
   
 
-### ICML, ICLR or NeurIPS 2022
+### ICML, ICLR or NeurIPS
+
+- [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)
+  - Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, Richard Socher, Nazneen Fatema Rajani
+  - Keywords: language model, transformer, structural and functional property
+
+- [Conditional Antibody Design as 3D Equivariant Graph Translation](https://arxiv.org/abs/2208.06073)
+  - Xiangzhe Kong, Wenbing Huang, Yang Liu
+  - Keywords: antibody design, graph tranlation
 
 - [Conditioning by adaptive sampling for robust design](http://proceedings.mlr.press/v97/brookes19a.html)
   - David Brookes, Hahnbeom Park, Jennifer Listgarten 
@@ -113,6 +132,10 @@ format:
 - [Deep generative models create new and diverse protein structures](https://www.mlsb.io/papers_2021/MLSB2021_Deep_generative_models_create.pdf)
   - Zeming Lin, Tom Sercu,  Yann LeCun
   - Keywords: diversity, generative model, protein design
+
+- [Deep sharpening of topological features for de novo protein design](https://openreview.net/forum?id=DwN81YIXGQP)
+  - Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia
+  - Keywords: variational autoencoder, topological features, sharpen
   
 - [Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design](https://proceedings.mlr.press/v139/cao21a.html)
   - Yue Cao, Payel Das, Vijil Chenthamarakshan, Pin-Yu Chen, Igor Melnyk, Yang Shen
@@ -126,36 +149,40 @@ format:
   - John Ingraham, Vikas Garg, Regina Barzilay, Tommi Jaakkola
   - Keywords: generative model, protein design
 
+- [Model-based reinforcement learning for biological sequence design](https://openreview.net/forum?id=HklxbgBKvr&fileGuid=3xgr169o12oUrbxS&ref=https://githubhelp.com)
+  - XChristof Angermueller, David Dohan, David Belanger, Ramya Deshpande, Kevin Murphy, Lucy Colwell
+  - Keywords: reinforcement learning, sequence design
+
+- [Molecule Generation For Target Protein Binding with Structural Motifs](https://openreview.net/forum?id=Rq13idF0F73)
+  - Zaixi Zhang, Yaosen Min, Shuxin Zheng, Qi Liu
+  - Keywords: target protein, structural motifs, fragment-by-fragment generation
+
 
 ### Arxiv or bioRxiv
 
-- [Conditional Antibody Design as 3D Equivariant Graph Translation](https://arxiv.org/abs/2208.06073)
-  - Xiangzhe Kong, Wenbing Huang, Yang Liu
-  - Keywords: antibody design, graph tranlation
+- [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)
+  - Brian Hie, Salvatore Candido, Zeming Lin, Ori Kabeli, Roshan Rao, Nikita Smetanin, Tom Sercu, Alexander Rives
+  - Keywords: ESMFold, language model, energy-based
   
-- [Deep sharpening of topological features for de novo protein design](https://openreview.net/forum?id=DwN81YIXGQP)
-  - Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia
-  - Keywords: topological feature, protein design
+- [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v2.abstract)
+  - Joseph L. Watson,  David Juergens,  Nathaniel R. Bennett,  Brian L. Trippe,  Jason Yim,  Helen E. Eisenach, Woody Ahern,  Andrew J. Borst,  Robert J. Ragotte,  Lukas F. Milles,  Basile I. M. Wicky,  Nikita Hanikel, Samuel J. Pellock,  Alexis Courbet, William Sheffler,  Jue Wang, Preetham Venkatesh,  Isaac Sappington, Susana Vázquez Torres,  Anna Lauko,  Valentin De Bortoli, Emile Mathieu, Regina Barzilay,  Tommi S. Jaakkola,  Frank DiMaio,  Minkyung Baek,  David Baker
+  - Keywords: diffusion, general deep learning framework, de novo binder design
   
 - [Function-guided protein design by deep manifold sampling](https://www.biorxiv.org/content/10.1101/2021.12.22.473759v1)
   - Vladimir Gligorijević, Daniel Berenberg, Stephen Ra, Simon Kelow, Kyunghyun Cho
   - Keywords: sequence denoising autoencoder, deep manifold sampling
   
+- [Language models generalize beyond natural proteins](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1.abstract)
+  - Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, David Baker, Sergey Ovchinnikov, Tom Sercu, Alexander Rives
+  - Keywords: ESMFold, language model, fixed backbone design
+  
 - [Language models of protein sequences at the scale of evolution enable accurate structure prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902.abstract)
   - Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Sal Candido, Alexander Rives
   - Keywords: structure prediction, language model
   
-- [Model-based reinforcement learning for biological sequence design](https://openreview.net/forum?id=HklxbgBKvr&fileGuid=3xgr169o12oUrbxS&ref=https://githubhelp.com)
-  - XChristof Angermueller, David Dohan, David Belanger, Ramya Deshpande, Kevin Murphy, Lucy Colwell
-  - Keywords: reinforcement learning, sequence design
-  
 - [TERMinator: A Neural Framework for Structure-Based Protein Design using Tertiary Repeating Motifs](https://arxiv.org/abs/2204.13048)
   - Alex J. Li, Vikram Sundar, Gevorg Grigoryan, Amy E. Keating
   - Keywords: protein design, tertiary motifs 
-
-- [Language models generalize beyond natural proteins](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1)
-  - Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, David Baker, Sergey Ovchinnikov, Tom Sercu, Alexander Rives
-  - Keywords: language model, protein design
   
 
 ### Others
