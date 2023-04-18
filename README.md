@@ -159,13 +159,21 @@ format:
 
 ### Arxiv or bioRxiv
   
-- [Deep sharpening of topological features for de novo protein design](https://openreview.net/forum?id=DwN81YIXGQP)
-  - Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia
-  - Keywords: topological feature, protein design
+- [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)
+  - Brian Hie, Salvatore Candido, Zeming Lin, Ori Kabeli, Roshan Rao, Nikita Smetanin, Tom Sercu, Alexander Rives
+  - Keywords: ESMFold, language model, energy-based
+  
+- [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v2.abstract)
+  - Joseph L. Watson,  View ORCID ProfileDavid Juergens,  View ORCID ProfileNathaniel R. Bennett,  View ORCID ProfileBrian L. Trippe,  View ORCID ProfileJason Yim,  View ORCID ProfileHelen E. Eisenach, Woody Ahern,  View ORCID ProfileAndrew J. Borst,  View ORCID ProfileRobert J. Ragotte,  View ORCID ProfileLukas F. Milles,  View ORCID ProfileBasile I. M. Wicky,  View ORCID ProfileNikita Hanikel, Samuel J. Pellock,  View ORCID ProfileAlexis Courbet, William Sheffler,  View ORCID ProfileJue Wang, Preetham Venkatesh,  View ORCID ProfileIsaac Sappington, Susana Vázquez Torres,  View ORCID ProfileAnna Lauko,  View ORCID ProfileValentin De Bortoli, Emile Mathieu, Regina Barzilay,  View ORCID ProfileTommi S. Jaakkola,  View ORCID ProfileFrank DiMaio,  View ORCID ProfileMinkyung Baek,  View ORCID ProfileDavid Baker
+  - Keywords: diffusion, general deep learning framework, de novo binder design
   
 - [Function-guided protein design by deep manifold sampling](https://www.biorxiv.org/content/10.1101/2021.12.22.473759v1)
   - Vladimir Gligorijević, Daniel Berenberg, Stephen Ra, Simon Kelow, Kyunghyun Cho
   - Keywords: sequence denoising autoencoder, deep manifold sampling
+  
+- [Language models generalize beyond natural proteins](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1.abstract)
+  - Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, David Baker, Sergey Ovchinnikov, Tom Sercu, Alexander Rives
+  - Keywords: ESMFold, language model, fixed backbone design
   
 - [Language models of protein sequences at the scale of evolution enable accurate structure prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902.abstract)
   - Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Sal Candido, Alexander Rives
@@ -174,10 +182,6 @@ format:
 - [TERMinator: A Neural Framework for Structure-Based Protein Design using Tertiary Repeating Motifs](https://arxiv.org/abs/2204.13048)
   - Alex J. Li, Vikram Sundar, Gevorg Grigoryan, Amy E. Keating
   - Keywords: protein design, tertiary motifs 
-
-- [Language models generalize beyond natural proteins](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1)
-  - Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, David Baker, Sergey Ovchinnikov, Tom Sercu, Alexander Rives
-  - Keywords: language model, protein design
   
 
 ### Others
