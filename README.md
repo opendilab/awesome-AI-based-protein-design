@@ -123,7 +123,7 @@ format:
 
 - [Conditional Antibody Design as 3D Equivariant Graph Translation](https://arxiv.org/abs/2208.06073)
   - Xiangzhe Kong, Wenbing Huang, Yang Liu
-  - Keywords: antibody design, graph tranlation
+  - Keywords: antibody design, graph translation
 
 - [Conditioning by adaptive sampling for robust design](http://proceedings.mlr.press/v97/brookes19a.html)
   - David Brookes, Hahnbeom Park, Jennifer Listgarten 
