@@ -156,7 +156,10 @@ format:
 - [Molecule Generation For Target Protein Binding with Structural Motifs](https://openreview.net/forum?id=Rq13idF0F73)
   - Zaixi Zhang, Yaosen Min, Shuxin Zheng, Qi Liu
   - Keywords: target protein, structural motifs, fragment-by-fragment generation
-
+ 
+- [Protein Representation Learning by Geometric Structure Pretraining](https://arxiv.org/abs/2203.06125)
+  - Zuobai Zhang, Minghao Xu, Arian Jamasb, Vijil Chenthamarakshan, Aurelie Lozano, Payel Das, Jian Tang
+  - Keywords: drug discovery, drug design, generative models of new molecular structures
 
 ### Arxiv or bioRxiv
 
