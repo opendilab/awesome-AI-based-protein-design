@@ -163,6 +163,10 @@ format:
 
 ### Arxiv or bioRxiv
 
+- [Protein generation with evolutionary diffusion: sequence is all you need](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1.abstract)
+  - Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex Xijie Lu, Nicolo Fusi, Ava Pardis Amini, Kevin K Yang
+  - Keywords: diffusion model, deep generative model, protein generation, framework, sequence design
+
 - [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.abstract)
   - Brian Hie, Salvatore Candido, Zeming Lin, Ori Kabeli, Roshan Rao, Nikita Smetanin, Tom Sercu, Alexander Rives
   - Keywords: ESMFold, language model, energy-based
