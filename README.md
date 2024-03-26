@@ -117,6 +117,10 @@ format:
 
 ### ICML, ICLR or NeurIPS
 
+- [Deep Reinforcement Learning for Modelling Protein Complexes](https://openreview.net/pdf?id=4MsfQ2H0lP)
+  - Ziqi Gao, Tao Feng, Jiaxuan You, Chenyi Zi, Yan Zhou, Chen Zhang, Jia Li
+  - Keywords: protein complex structure prediction, docking path prediction, policy network, reinforcement learning
+
 - [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)
   - Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, Richard Socher, Nazneen Fatema Rajani
   - Keywords: language model, transformer, structural and functional property
